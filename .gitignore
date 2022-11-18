@@ -1,4 +1,4 @@
-.git
+
 stats_venv
 .pytest_cache
-
+__pycache__
